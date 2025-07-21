@@ -107,10 +107,10 @@ To stop and remove all containers, networks, and volumes (this will delete your 
 ```bash
 docker-compose down -v
 
-To stop containers without removing data:
+
 
 ```
-
+## 🛑 To stop containers without removing data:
 ```
 docker-compose stop
 
