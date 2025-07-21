@@ -111,8 +111,7 @@ To stop containers without removing data:
 
 ```
 
-docker-compose stop
-
 ```
+docker-compose stop
 
 ```
